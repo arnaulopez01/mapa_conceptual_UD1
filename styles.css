@@ -18,6 +18,10 @@ body {
     border-radius: 8px;
   }
 
+  img{
+    max-width: 800px;
+  }
+
   .container2{
     padding-top: 5px;
     padding-left: 5px;
